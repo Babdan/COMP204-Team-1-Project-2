@@ -12,7 +12,7 @@
 
 BY:
 
--👨‍💻 Bogdan Itsam Dorantes-Nikolaev, 042101002, Computer Engineering
+- 👨‍💻 Bogdan Itsam Dorantes-Nikolaev, 042101002, Computer Engineering
 
 -👩‍💻 Sena Güngörmez, 042101076, Computer Engineering
 
