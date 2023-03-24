@@ -14,8 +14,8 @@ BY:
 
 - 👨‍💻 Bogdan Itsam Dorantes-Nikolaev, 042101002, Computer Engineering
 
--👩‍💻 Sena Güngörmez, 042101076, Computer Engineering
+- 👩‍💻 Sena Güngörmez, 042101076, Computer Engineering
 
--🧑‍💻 Rahiq Al Huslan, 042101140, Computer Engineering
+- 🧑‍💻 Rahiq Al Huslan, 042101140, Computer Engineering
 
--👩‍💻 Meliha Koç, 042101003, Computer Engineering
+- 👩‍💻 Meliha Koç, 042101003, Computer Engineering
