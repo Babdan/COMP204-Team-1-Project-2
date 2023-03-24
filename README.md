@@ -1,4 +1,4 @@
-<h1>💻  COMP204 Team 1 Project 2 💻 </h1>
+<h1>  COMP204 Team 1 Project 2  </h1>
  
 - Tetris 2048 is a game that combines elements of the classic Tetris game with the popular 2048 game. We will write this game in Java programming language and uses the StdDraw library for graphical rendering.
 - The objective of the game is to stack falling shapes called tetrominoes in a way that forms complete rows. When a row is completed, it disappears and the player earns points. 
@@ -10,12 +10,12 @@
 - The game is implemented using Java and the StdDraw library, which provides a simple interface for drawing shapes and text on a canvas. The game logic is implemented using object-oriented programming concepts, with separate classes for the game board, tetrominoes, and game state.
 
 
-🌱 BY:
+BY:
 
-Bogdan Itsam Dorantes-Nikolaev, 042101002, Computer Engineering
+-👨‍💻 Bogdan Itsam Dorantes-Nikolaev, 042101002, Computer Engineering
 
-Sena Güngörmez, 042101076, Computer Engineering
+-👩‍💻 Sena Güngörmez, 042101076, Computer Engineering
 
-Rahiq Al Huslan, 042101140, Computer Engineering
+-🧑‍💻 Rahiq Al Huslan, 042101140, Computer Engineering
 
-Meliha Koç, 042101003, Computer Engineering
+-👩‍💻 Meliha Koç, 042101003, Computer Engineering
