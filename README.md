@@ -10,7 +10,7 @@
 - The game is implemented using Java and the StdDraw library, which provides a simple interface for drawing shapes and text on a canvas. The game logic is implemented using object-oriented programming concepts, with separate classes for the game board, tetrominoes, and game state.
 
 
-<h1> BY: </h2>
+<h2> BY: </h2>
 
 - 👨‍💻 Bogdan Itsam Dorantes-Nikolaev, 042101002, Computer Engineering
 
